@@ -5,14 +5,14 @@ Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui imp
 
 ---
 
-- 🔭 **Atualmente estou trabalhando como freelancer no projeto IDEIA**. Onde estou responsavel por toda a construção do back-end. O IDEIA é uma plataforma de gestão de projeto volta para ONG's, onde além de gerenciar você pode buscar projetos para colaborar.<br/>
-  Ficou intereçado e quer saber um pouco mais? Acesse o link e veja no nosso site ^^ -> [IDEIA](https://ideia.cc/)
+- 🔭 **Atualmente estou trabalhando como freelancer no projeto IDEIA**. Onde estou responsável por toda a construção do back-end. O IDEIA é uma plataforma de gestão de projeto voltado para ONG's, onde além de gerenciar você pode buscar projetos para colaborar.<br/>
+  Ficou interessado e quer saber um pouco mais? Acesse o link e veja no nosso site ^^ -> [IDEIA](https://ideia.cc/)
 
-- 👯 **Eu e a comunidade**: Sou um dos organizador/colaborador da **devHouse**, uma comunidade com a misão de compartilhar conhecimento e ajudar devs a chegarem no seu próximo nível. Temos um discord para gerar network entre os membros, github com projetos para a comunidade, lives/podcasts com participantes que estão inseridos no mundo da tecnologia. Vou deixar alguns links abaixo para você dar uma conferida ^^.<br/>
+- 👯 **Eu e a comunidade**: Sou um dos organizadores/colaboradores da **devHouse**, uma comunidade com a missão de compartilhar conhecimento e ajudar devs a chegarem no seu próximo nível. Temos um discord para gerar network entre os membros, github com projetos para a comunidade, lives/podcasts com participantes que estão inseridos no mundo da tecnologia. Vou deixar alguns links abaixo para você dar uma conferida ^^.<br/>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" height="280" />
 
- - **devHouse:** //Discord //Spotify //Podcast(em Construção) //GitHub
+ - **devHouse:** <a href="https://discord.gg/AHqmZ38bKC" title="Discord devHouse" alt="Discord Dev House" target="_blank"><img height="18" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/a66ff19f361f0a4b38ff302c58e742864720d02b/assets/discord.svg"></a> **°** <a href="https://open.spotify.com/show/2GHQsUcTC6vI3iiaEdnlxs" title="Spotify devHouse" alt="Spotify Dev House" target="_blank"><img height="18" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/bc6e36a173a34d66af1a2dc74871c38520f86d75/assets/spotify.svg"></a>  **°** <a href="https://devhouse.vercel.app/" title="Podcast devHouse" alt="Podcast Dev House" target="_blank"><img height="18" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/2c035c8440ce096dbc6f5ba742198583da7ff9eb/assets/podcast.svg"></a>  **°** <a href="https://github.com/orgs/dev-house-community/teams" title="Github devHouse" alt="Github Dev House" target="_blank"><img height="22" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/28d4bb6b7e1a3574542464e32d23e65996d2f42d/assets/github.svg"></a> 
 ---
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
 - 📫 Como entrar em contato comigo: [Jorge Alegretti](https://www.linkedin.com/in/jorge-alegretti/).
@@ -37,8 +37,8 @@ Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui imp
 ---
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jorge-lba&show_icons=true&theme=radical" /> 
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-lba&layout=compact&theme=radical" /> 
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jorge-lba&show_icons=true&theme=radical" /> 
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-lba&layout=compact&theme=radical" /> 
 </p>
  
 
