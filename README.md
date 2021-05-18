@@ -29,6 +29,13 @@ Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui imp
 <a href="https://www.google.com" target="_blank"><img height="26" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/1462233c91ccd19b7e8d7ca67be65d26f036e1e3/assets/react.svg"></a>
 <a href="https://www.google.com" target="_blank"><img height="26" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/d1090f5e726a95702fc0fa46b4612c2a4d677b8a/assets/nextjs.svg"></a>
 <a href="https://www.google.com" target="_blank"><img height="26" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/bebf921c2fce21fa4d76b816cc6d2fb0c86c711e/assets/elixir.svg"></a>
+</br></br>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jorge-lba&show_icons=true&theme=radical" /> 
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-lba&layout=compact&theme=radical" /> 
+</p>
+ 
 
 <!--
 **jorge-lba/jorge-lba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
