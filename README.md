@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=2953AE&size=24&vCenter=true&width=600&height=70&lines=Ol%C3%A1%2C+sou+o+Jorge.;Mas+pode+me+chamar+de+Rahmai."/>
+<img src="https://readme-typing-svg.herokuapp.com?color=3D8AF7&size=36&width=700&height=100&lines=Ol%C3%A1%2C+sou+o+Jorge.;Mas+pode+me+chamar+de+Rahmai."/>
 
 Sou dev back-end apaixonado por buscar e compartilhar conhecimento.
 Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui impactado busco impactar outras pessoas.
@@ -8,7 +8,7 @@ Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui imp
 
 - 👯 **Eu e a comunidade**: Sou um dos organizador/colaborador da **devHouse**, uma comunidade com a misão de compartilhar conhecimento e ajudar devs a chegarem no seu próximo nível. Temos um discord para gerar network entre os membros, github com projetos para a comunidade, lives/podcasts com participantes que estão inseridos no mundo da tecnologia. Vou deixar alguns links abaixo para você dar uma conferida ^^.<br/>
  
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" height="280" />
 
  - **devHouse:** //Discord //Spotify //Podcast(em Construção) //GitHub<br/><br/>
 
