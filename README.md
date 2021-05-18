@@ -1,7 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=3D8AF7&size=36&width=700&height=100&lines=Ol%C3%A1%2C+sou+o+Jorge.;Mas+pode+me+chamar+de+Rahmai."/>
+<img src="https://readme-typing-svg.herokuapp.com?color=3D8AF7&size=36&width=700&height=60&lines=Ol%C3%A1%2C+sou+o+Jorge.;Mas+pode+me+chamar+de+Rahmai."/>
 
 Sou dev back-end apaixonado por buscar e compartilhar conhecimento.
 Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui impactado busco impactar outras pessoas.
+
+---
 
 - 🔭 **Atualmente estou trabalhando como freelancer no projeto IDEIA**. Onde estou responsavel por toda a construção do back-end. O IDEIA é uma plataforma de gestão de projeto volta para ONG's, onde além de gerenciar você pode buscar projetos para colaborar.<br/>
   Ficou intereçado e quer saber um pouco mais? Acesse o link e veja no nosso site ^^ -> [IDEIA](https://ideia.cc/)
@@ -10,11 +12,12 @@ Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui imp
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" height="280" />
 
- - **devHouse:** //Discord //Spotify //Podcast(em Construção) //GitHub<br/><br/>
-
+ - **devHouse:** //Discord //Spotify //Podcast(em Construção) //GitHub
+---
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
 - 📫 Como entrar em contato comigo: [Jorge Alegretti](https://www.linkedin.com/in/jorge-alegretti/).
 - CV: *em breve* 
+---
 
 **Linguagens e Ferramentas:**  
 
@@ -30,6 +33,8 @@ Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui imp
 <a href="https://www.google.com" target="_blank"><img height="26" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/d1090f5e726a95702fc0fa46b4612c2a4d677b8a/assets/nextjs.svg"></a>
 <a href="https://www.google.com" target="_blank"><img height="26" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/bebf921c2fce21fa4d76b816cc6d2fb0c86c711e/assets/elixir.svg"></a>
 </br></br>
+
+---
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jorge-lba&show_icons=true&theme=radical" /> 
