@@ -10,11 +10,17 @@ Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui imp
  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-  //Discord //Spotify //Podcast(em Construção) //GitHub<br/><br/>
+ - **devHouse:** //Discord //Spotify //Podcast(em Construção) //GitHub<br/><br/>
 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
-- 📫 Como entrar em contato comigo: [Jorge Alegretti] (https://www.linkedin.com/in/jorge-alegretti/).
+- 📫 Como entrar em contato comigo: [Jorge Alegretti](https://www.linkedin.com/in/jorge-alegretti/).
 - CV: *em breve* 
+
+**Linguagens e Ferramentas:**  
+
+<code><a href="https://www.google.com" target="_blank"><img height="20" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/470eb86009bebc072b91f10fc16b724417fad683/assets/javascript.svg"></a></code>
+<code><a href="https://www.google.com" target="_blank"><img height="20" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/dd69216b4a802cb2ce91bd2bb4ee4ddb89d0f3b8/assets/typescript.svg"></a></code>
+<code><a href="https://www.google.com" target="_blank"><img height="20" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/541b568c52d17e9f26b6955199dfb8e7742c4d39/assets/nodejs.svg"></a></code>
 
 <!--
 **jorge-lba/jorge-lba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
