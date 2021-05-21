@@ -16,7 +16,7 @@ Sei o quanto a área de Tecnologia pode mudar vidas e da mesma forma que fui imp
 ---
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
 - 📫 Como entrar em contato comigo: [Jorge Alegretti](https://www.linkedin.com/in/jorge-alegretti/).
-- CV: Um pouco sobre mais mim <a href="https://github.com/jorge-lba/jorge-lba/blob/main/assets/Jorge-Alegretti-Dev-Back-End%20.pdf" title="CV - Jorge Alegretti" alt="CV - Jorge Alegretti" target="_blank"><img height="26" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/c005a8ba106f0990dbdefb8cd187b946fbcdb6b7/assets/parchment.svg"></a> 
+- CV: Um pouco sobre mais mim <a href="https://github.com/jorge-lba/jorge-lba/blob/main/assets/CV-Jorge-Alegretti-Dev-Back-end.pdf" title="CV - Jorge Alegretti" alt="CV - Jorge Alegretti" target="_blank"><img height="26" src="https://raw.githubusercontent.com/jorge-lba/jorge-lba/c005a8ba106f0990dbdefb8cd187b946fbcdb6b7/assets/parchment.svg"></a> 
 ---
 
 **Linguagens e Ferramentas:**  
